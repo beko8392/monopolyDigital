@@ -7,6 +7,9 @@ Instructions.txt
 Benjamin Kohav
 Charlotte Gorgemans 
 
+<img width="428" alt="Screen Shot 2022-08-20 at 10 37 09 PM" src="https://user-images.githubusercontent.com/97623467/185775718-8f87c40f-25a5-408e-9eb2-71b48c712d2a.png">
+
+
 I N S T R U C T I O N S
 
 Welcome to our Monopoly Game! To compile, please follow the instructions below. We hope that you enjoy playing Monopoly!
