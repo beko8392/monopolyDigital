@@ -23,7 +23,10 @@ Welcome to our Monopoly Game! To compile, please follow the instructions below. 
 5. When the file has compiled and the game is in session, terminal will prompt user to input information and interact with 
    the game (i.e. input player name, player character, etc.). Please make sure to interact with the terminal and input 
    corresponding information. Enjoy! 
-   
+
+<img width="617" alt="Screen Shot 2022-08-20 at 10 38 34 PM" src="https://user-images.githubusercontent.com/97623467/185775757-94aba386-1435-4d78-8ced-452e2b6e20a8.png">
+
+
 ----------------
 ABOUT THIS PROJECT 
 ----------------
