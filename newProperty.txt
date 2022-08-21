@@ -1,0 +1,28 @@
+1,Mediterranean Ave,60,1,15,50,0
+3,Baltic Ave,60,1,15,50,0
+5,Reading Railroad,200,25,100,0,0 
+6,Oriental Ave,100,9,65,50,0
+8,Vermont Ave,100,9,65,50,0
+9,Connecticut Ave,100,9,65,50,0
+11,St. Charles Place,140,10,90,100,0
+12,Electric Company,150,20,100,0,0
+13,States Ave,140,10,70,100,0
+14,Virginia Ave,140,12,80,100,0
+15,Pennsylvania Railroad,200,25,100,0,0
+16,St. James Place,180,14,90,100,0
+18,Tennessee Ave,180,14,90,100,0
+19,New York Ave,200,16,100,100,0
+21,Kentucky Ave,220,18,100,150,0
+23,Indiana Ave,220,18,100,100,0
+24,Illinois Ave,240,20,120,150,0
+25,Long Line,200,25,100,0,0
+26,Atlantic Ave,260,22,130,150,0
+27,Ventnor Ave,260,22,130,150,0
+28,Water Works,150,20,100,0,0
+29,Marvin Gardens,280,24,140,150,0
+31,Pacific Ave,300,26,150,200,0
+32,North Carolina Ave,300,26,150,200,0
+34,Pennsylvania Ave,320,28,160,200,0
+35,Short Line,200,25,100,0,0
+37,Park Place,350,60,215,300,0
+39,Boardwalk,400,80,250,300,0
